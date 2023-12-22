@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QxRsOdZ2jm3kkIuEKDtsdnckUrCKRPhPd6CzCDbaPN0=",
+  "Source": "PetFriendTrackingAPI",
+  "BasePath": "_content/PetFriendTrackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
